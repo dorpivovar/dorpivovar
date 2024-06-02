@@ -6,11 +6,14 @@
 
 
 ### Info
-* My name is Armand
-* I am under 100 y. and more than 18
-* I am from Russia 🇷🇺
-* I am interested: coding, backend, games, operating systems, linux
-* The main programming language is Python
+```python
+def main():
+    name = 'Armand'
+    age = 'I am under 100 y. and more than 1'
+    interests = ['coding', 'backend', 'games', 'operating systems', 'linux']
+    country = 'Russia'
+    main_language = 'Python'
+```
 <div align="center">
   
 ![OS:Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=Windows&color=blue)
