@@ -15,12 +15,14 @@ def main():
     main_language = 'Python'
 ```
 <div align="center">
-  
+
+[![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 ![OS:Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=Windows&color=blue)
 ![OS:Android 15](https://img.shields.io/badge/OS-Android%2015-green?style=flat-square&logo=Android&color=green)
 ![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode&color=blue)
 ![IDE:PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=PyCharm&color=dark-green)
 ![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square&logo=firefox&color=orange)
+[![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
 
 [![Telegram](https://img.shields.io/badge/Telegram-dorpivovar-blue?style=flat-square&logo=telegram&color=blue)](https://t.me/dorpivovar)
 [![Email](https://img.shields.io/badge/Email-dorpivovar%40nuke.africa-yellow?style=flat-square&logo=email&color=yellow)
