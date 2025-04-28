@@ -7,7 +7,7 @@
 
 ### Info
 ```python
-def main():
+def info():
     name = 'Armand'
     age = 'I am under 100 y. and more than 1'
     interests = ['coding', 'backend', 'games', 'operating systems', 'linux']
