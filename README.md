@@ -17,7 +17,7 @@ def main():
 <div align="center">
   
 ![OS:Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=Windows&color=blue)
-![OS:Android 14](https://img.shields.io/badge/OS-Android%2014-green?style=flat-square&logo=Android&color=green)
+![OS:Android 15](https://img.shields.io/badge/OS-Android%2015-green?style=flat-square&logo=Android&color=green)
 ![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode&color=blue)
 ![IDE:PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=PyCharm&color=dark-green)
 ![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square&logo=firefox&color=orange)
