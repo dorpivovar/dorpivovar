@@ -22,7 +22,7 @@ def info():
 ![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode&color=blue)
 ![IDE:PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=PyCharm&color=dark-green)
 ![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square&logo=firefox&color=orange)
-
+![WM:bspwm](https://img.shields.io/badge/-bspwm-2E2E2E?style=flat&logo=bspwm&logoColor=white)
 [![Telegram](https://img.shields.io/badge/Telegram-dorpivovar-blue?style=flat-square&logo=telegram&color=blue)](https://t.me/dorpivovar)
 [![Email](https://img.shields.io/badge/Email-dorpivovar%40nuke.africa-yellow?style=flat-square&logo=email&color=yellow)
 ](mailto:dorpivovar@nuke.africa)
