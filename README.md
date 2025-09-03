@@ -8,7 +8,7 @@
 
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 ![WM:bspwm](https://img.shields.io/badge/-bspwm-2E2E2E?style=flat-square&logo=bspwm&logoColor=white)
-![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode&color=blue)
+![Text editor:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode&color=blue)
 ![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square&logo=firefox&color=orange)
 [![Telegram](https://img.shields.io/badge/Telegram-dorpivovar-blue?style=flat-square&logo=telegram&color=blue)](https://t.me/dorpivovar)
 [![Email](https://img.shields.io/badge/Email-dorpivovar%40nuke.africa-yellow?style=flat-square&logo=email&color=yellow)
