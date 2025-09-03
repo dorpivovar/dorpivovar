@@ -4,16 +4,6 @@
 ## Hi there 👋
 </div>
 
-
-### Info
-```python
-def info():
-    name = 'Armand'
-    age = 'I am under 100 y. and more than 1'
-    interests = ['coding', 'backend', 'games', 'operating systems', 'linux']
-    country = 'Russia'
-    main_language = 'Python'
-```
 <div align="center">
 
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
