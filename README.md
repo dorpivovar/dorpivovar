@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-![WM:bspwm](https://img.shields.io/badge/-bspwm-2E2E2E?style=flat-square&logo=bspwm&logoColor=white)
+[![OS:ArchLinux](https://img.shields.io/badge/OS-Void%20Linux-darkgreen?style=flat-square&logo=void-linux)](https://voidlinux.org)
+![WM:bspwm](https://img.shields.io/badge/-niri-2E2E2E?style=flat-square&logo=wayland&logoColor=white)
 ![Text editor:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode&color=blue)
 ![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square&logo=firefox&color=orange)
 [![Telegram](https://img.shields.io/badge/Telegram-dorpivovar-blue?style=flat-square&logo=telegram&color=blue)](https://t.me/dorpivovar)
@@ -20,9 +20,6 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-
   
 </div>
 
