@@ -17,7 +17,6 @@
 **Tech Stack**<br>
 ![Python](https://img.shields.io/badge/Python-2B3339?style=flat-square&logo=python&logoColor=dbbc7f)
 ![Flask](https://img.shields.io/badge/Flask-2B3339?style=flat-square&logo=flask&logoColor=d3c6aa)
-![SQLite](https://img.shields.io/badge/SQLite-2B3339?style=flat-square&logo=sqlite&logoColor=7fbbb3)
 ![Qt](https://img.shields.io/badge/Qt-2B3339?style=flat-square&logo=Qt&logoColor=a6b465)
 
 **Contact**<br>
