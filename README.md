@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-*Information Systems and Programming Student | Aspiring AQA Engineer*
+*Information Systems and Programming Student*
 
 <br>
 
